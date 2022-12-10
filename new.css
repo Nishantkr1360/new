@@ -1,0 +1,17 @@
+.heart :hover{
+  color : red;
+  font-size: 30px;
+	color: red;
+	animation: beat 1s infinite alternate;
+	transform-origin: center;
+  animation-iteration-count: infinite;
+  line-height:3rem;
+  font-family: 'Ballo Bhaijan 2',cursive;
+  text-decoration-style:  double;
+  text-shadow: black;
+  text-transform: capitalize;
+}
+#new {
+font-size: larger;
+font-family: 'Ballo Bhaijan 2',cursive;
+}
